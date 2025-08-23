@@ -1,0 +1,23 @@
+[33mtag V.1[m
+Tagger: Amanda-Morais-Mais <amanda.morais@maiscs.com.br>
+Date:   Sat Aug 23 16:00:32 2025 -0300
+
+primeira versao
+
+[33mcommit 11fdb6684f452469ce71f8cdd5ae478235c92d78[m[33m ([m[1;33mtag: [m[1;33mV.1[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mteste[m[33m, [m[1;32mprimeiro_branch[m[33m)[m
+Author: Amanda-Morais-Mais <amanda.morais@maiscs.com.br>
+Date:   Fri Aug 22 14:06:28 2025 -0300
+
+    funcionalidade
+
+[1mdiff --git a/d.txt b/d.txt[m
+[1mindex 48e3d3f..5dfb285 100644[m
+[1m--- a/d.txt[m
+[1m+++ b/d.txt[m
+[36m@@ -1 +1,3 @@[m
+[31m-dfgfgfgd[m
+\ No newline at end of file[m
+[32m+[m[32mdfgfgfg[m
+[32m+[m
+[32m+[m[32mv[m
+\ No newline at end of file[m
